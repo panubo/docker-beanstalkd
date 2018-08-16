@@ -1,3 +1,3 @@
-# Beanstalkd Docker Container
+# Beanstalkd Docker Image
 
-A very simple beanstalkd Docker container.
+A very simple beanstalkd Docker image.
